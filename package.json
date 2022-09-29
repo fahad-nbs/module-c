@@ -2,6 +2,7 @@
   "name": "module-c",
   "version": "0.1.0",
   "private": true,
+  "main": "./dist/module-c.common.js",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build"
