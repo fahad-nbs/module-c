@@ -15,6 +15,7 @@
 We can start both projects seperatly too. 
 or even start main project only it will work due to our installed module-c package in node-modules
 
+module-a link: https://github.com/fahad-nbs/module-a
 reference: https://javascript.plainenglish.io/how-to-create-test-bundle-vue-components-library-8c4828ab7b00
 
 ## Project setup
