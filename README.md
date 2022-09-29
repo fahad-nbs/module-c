@@ -2,7 +2,7 @@
 
 ##link module-c (checkout component) to module-a (shop-rework/broadcast)
 1. install `npm install -g @vue/cli`
-2. then in module-c console type `vue-cli-service build --target lib --name module-c ./src/index.js`
+2. then in module-c console type `vue-cli-service build --target lib --name module-c ./src/components/index.js`
 3. created index.js file in src/components where I have exported all components
 4. then type `npm link`
 5. then in module-a type `npm link module-c`
